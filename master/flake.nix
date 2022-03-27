@@ -11,6 +11,7 @@
   inputs.src-pymod-master.ref   = "refs/heads/master";
   inputs.src-pymod-master.owner = "jboy";
   inputs.src-pymod-master.repo  = "nim-pymod";
+  inputs.src-pymod-master.dir   = "";
   inputs.src-pymod-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
