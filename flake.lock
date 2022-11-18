@@ -212,11 +212,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334746,
-        "narHash": "sha256-dyTecb4seO3HpcvrqtqUtxhTp8qnVDTYThGTDg9gxsw=",
+        "lastModified": 1668749003,
+        "narHash": "sha256-Be7KpJAcxIwaLm6aOg1tyZQn3FmmgGNFci9qobWtLWs=",
         "owner": "nim-nix-pkgs",
         "repo": "pymod",
-        "rev": "2da74a6639e001a5d5767d57d8c3f51ec5161bc6",
+        "rev": "af5d58e012147af99acc0a9fa190a8c00a9c794e",
         "type": "github"
       },
       "original": {
